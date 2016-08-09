@@ -5,12 +5,9 @@ Installing notes for my personal use.
 
 Sardi at [Sourceforge](https://sourceforge.net/projects/sardi/files/)
 
-![Screenshots]()
+![Screenshots](http://i.imgur.com/DEyIvw2.jpg)
 
-Pushing git gives a popup from kwallet
-Install this program to stop this
 
-sudo pacman -S kwalletmanager --noconfirm
 
 community packages 
 
