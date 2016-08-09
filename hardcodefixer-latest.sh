@@ -1,30 +1,30 @@
 #!/bin/bash
 #
-#                                       
-# MMMMMMMMMMMMMMMMMMMMMMMMMmds+.        
-# MMm----::-://////////////oymNMd+`     
-# MMd      /++                -sNMd:    
-# MMNso/`  dMM    `.::-. .-::.` .hMN:   
-# ddddMMh  dMM   :hNMNMNhNMNMNh: `NMm   
-#     NMm  dMM  .NMN/-+MMM+-/NMN` dMM   
-#     NMm  dMM  -MMm  `MMM   dMM. dMM   
-#     NMm  dMM  -MMm  `MMM   dMM. dMM   
-#     NMm  dMM  .mmd  `mmm   yMM. dMM   
-#     NMm  dMM`  ..`   ...   ydm. dMM   
-#     hMM- +MMd/-------...-:sdds  dMM   
-#     -NMm- :hNMNNNmdddddddddy/`  dMM   
-#      -dMNs-``-::::-------.``    dMM   
-#       `/dMNmy+/:-------------:/yMMM  
-#          ./ydNMMMMMMMMMMMMMMMMMMMMM  
-#             \.MMMMMMMMMMMMMMMMMMM    
-#                                      
 #
 #
+#
+#            _ _ _        "kkkkkkkk.          
+#          ,kkkkkkkk.,    'kkkkkkkkk,         
+#          ,kkkkkkkkkkkk., 'kkkkkkkkk.        
+#         ,kkkkkkkkkkkkkkkk,'kkkkkkkk,        
+#        ,kkkkkkkkkkkkkkkkkkk'kkkkkkk.        
+#         "''"''',;::,,"''kkk''kkkkk;   __    
+#             ,kkkkkkkkkk, "k''kkkkk' ,kkkk   
+#           ,kkkkkkk' ., ' .: 'kkkk',kkkkkk   
+#         ,kkkkkkkk'.k'   ,  ,kkkk;kkkkkkkkk  
+#        ,kkkkkkkk';kk 'k  "'k',kkkkkkkkkkkk  
+#       .kkkkkkkkk.kkkk.'kkkkkkkkkkkkkkkkkk'  
+#       ;kkkkkkkk''kkkkkk;'kkkkkkkkkkkkk''    
+#       'kkkkkkk; 'kkkkkkkk.,""''"''""        
+#        ''kkkk;  'kkkkkkkkkk.,             
+#             ';'    'kkkkkkkkkkkk.,          
+#                    ';kkkkkkkkkk'           
+#                      ';kkkkkk'             
+#
+#  
 ##################################################################################################################
 #
-# Current project : Ultimate-Linux-Mint-18
-#
-# Source 	: 	https://github.com/erikdubois/Ultimate-Linux-Mint-18
+# Current project : CHAKRA
 #
 ##################################################################################################################
 # Written to be used on 64 bits computers
@@ -54,21 +54,13 @@
 # Check out the github - many more scripts for automatic installation of Linux Systems.
 #
 #
-#
-#
-#
-##################################################################################################################
-# If the option -y has been added. It will autoinstall all. Omit if you do not want that.
-##################################################################################################################
-#
-#
-#
-#
 ##################################################################################################################
 #
 #   DO NOT JUST RUN THIS. EXAMINE AND JUDGE. AT YOUR OWN RISK.
 #
 ##################################################################################################################
+
+
 
 
 # if there is already a folder, delete or else do nothing

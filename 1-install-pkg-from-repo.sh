@@ -1,28 +1,30 @@
 #!/bin/bash
 #
-#                                       
-#                     ..            
-#         .....         ..OSSAAAAAAA..      
-#        .KKKKSS.     .SSAAAAAAAAAAA.       
-#       .KKKKKSO.    .SAAAAAAAAAA...        
-#       KKKKKKS.   .OAAAAAAAA.              
-#       KKKKKKS.  .OAAAAAA.                 
-#       KKKKKKS. .SSAA..                    
-#       .KKKKKS..OAAAAAAAAAAAA........      
-#        DKKKKO.=AA=========A===AASSSO..   
-#         AKKKS.==========AASSSSAAAAAASS.   
-#         .=KKO..========ASS.....SSSSASSSS. 
-#           .KK.       .ASS..O.. =SSSSAOSS: 
-#            .OK.      .ASSSSSSSO...=A.SSA. 
-#              .K      ..SSSASSSS.. ..SSA.  
-#                        .SSS.AAKAKSSKA.    
-#                           .SSS....S..   
-#                                      
 #
 #
+#
+#            _ _ _        "kkkkkkkk.          
+#          ,kkkkkkkk.,    'kkkkkkkkk,         
+#          ,kkkkkkkkkkkk., 'kkkkkkkkk.        
+#         ,kkkkkkkkkkkkkkkk,'kkkkkkkk,        
+#        ,kkkkkkkkkkkkkkkkkkk'kkkkkkk.        
+#         "''"''',;::,,"''kkk''kkkkk;   __    
+#             ,kkkkkkkkkk, "k''kkkkk' ,kkkk   
+#           ,kkkkkkk' ., ' .: 'kkkk',kkkkkk   
+#         ,kkkkkkkk'.k'   ,  ,kkkk;kkkkkkkkk  
+#        ,kkkkkkkk';kk 'k  "'k',kkkkkkkkkkkk  
+#       .kkkkkkkkk.kkkk.'kkkkkkkkkkkkkkkkkk'  
+#       ;kkkkkkkk''kkkkkk;'kkkkkkkkkkkkk''    
+#       'kkkkkkk; 'kkkkkkkk.,""''"''""        
+#        ''kkkk;  'kkkkkkkkkk.,             
+#             ';'    'kkkkkkkkkkkk.,          
+#                    ';kkkkkkkkkk'           
+#                      ';kkkkkk'             
+#
+#  
 ##################################################################################################################
 #
-# Current project : KAOS
+# Current project : CHAKRA
 #
 ##################################################################################################################
 # Written to be used on 64 bits computers
@@ -57,6 +59,7 @@
 #   DO NOT JUST RUN THIS. EXAMINE AND JUDGE. AT YOUR OWN RISK.
 #
 ##################################################################################################################
+
 
 
 sudo pacman -S base-devel --noconfirm
@@ -143,7 +146,7 @@ sudo pacman -S evolution --noconfirm
 
 # all kind of tools to get system information
 
-sudo pacman -S scrot --noconfirm
+
 
 
 sudo pacman -S git --noconfirm
@@ -156,7 +159,7 @@ sudo pacman -S wget  --noconfirm
 
 #sudo pacman -S glances  --noconfirm
 
-sudo pacman -S numlockx --noconfirm
+
 
 numlockx on 
 
