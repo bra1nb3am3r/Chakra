@@ -145,7 +145,6 @@ sudo pacman -S evolution --noconfirm
 
 sudo pacman -S scrot --noconfirm
 
-sudo pacman -S screenfetch --noconfirm
 
 sudo pacman -S git --noconfirm
 
