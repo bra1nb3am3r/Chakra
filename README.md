@@ -17,6 +17,12 @@ https://chakralinux.org/ccr/
 
 Install ccr and base-devel
 
+you can also use chaser
+
+crr chaser
+
+chaser install ...
+
 
 Run the scripts...
 
